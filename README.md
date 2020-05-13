@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![A Flutter Resources App using Futter ](https://github.com/abair341/flutter_Employee_Data_card_listview_api/blob/master/dept_emp_card_list.png?raw=true)
+
+![A Flutter Resources App using Futter ](https://github.com/abair341/flutter_Employee_Data_card_listview_api/blob/master/flutter_Employee_Data_listview_api.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
